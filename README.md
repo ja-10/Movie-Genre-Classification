@@ -1,2 +1,2 @@
 # Movie-Genre-Classification
-The project classifies movie genres based on contextual information using Term Frequency-Inverse Document Frequency Vectorization and Linear Support Vector Classifier.
+A movie genre classification system using TF-IDF vectorization and a Linear Support Vector Classifier for accurate, context-based predictions.
